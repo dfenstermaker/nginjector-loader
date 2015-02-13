@@ -6,8 +6,8 @@ as a config loader like so:
 
 ```json
   module: {
-    loaders: [
-      { test: /\.js$/, exclude: [/node_modules/], loader: "ngInjector-loader" }
+    "loaders": [
+      { "test": /\.js$/, "exclude": [/node_modules/], "loader": "ngInjector-loader" }
     ]
   }
 ```
