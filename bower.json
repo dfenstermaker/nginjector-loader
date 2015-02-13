@@ -1,0 +1,23 @@
+{
+  "name": "ngInjector-loader",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dfenstermaker/ngInjector-loader",
+  "authors": [
+    "Danny Fenstermaker <dannyfenstermaker@gmail.com>"
+  ],
+  "description": "Webpack loader to resolve angular-injector functions",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "loader",
+    "ngInjector"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

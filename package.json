@@ -1,0 +1,28 @@
+{
+  "name": "ngInjector-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader to resolve angular-injector functions",
+  "main": "index.js",
+  "dependencies": {
+    "angular-injector": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfenstermaker/ngInjector-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "ngInjector"
+  ],
+  "author": "Danny Fenstermaker dannyfenstermaker@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfenstermaker/ngInjector-loader/issues"
+  },
+  "homepage": "https://github.com/dfenstermaker/ngInjector-loader"
+}
