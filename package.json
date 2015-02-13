@@ -1,6 +1,6 @@
 {
-  "name": "ngInjector-loader",
-  "version": "0.0.1",
+  "name": "nginjector-loader",
+  "version": "0.0.2",
   "description": "Webpack loader to resolve angular-injector functions",
   "main": "index.js",
   "dependencies": {
